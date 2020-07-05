@@ -1,0 +1,16 @@
+…or create a new repository on the command line
+echo "# bootstrap-practice" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/AyeshaWebHero/bootstrap-practice.git
+git push -u origin master
+                
+…or push an existing repository from the command line
+git remote add origin https://github.com/AyeshaWebHero/bootstrap-practice.git
+git push -u origin master
+
+https://stock.adobe.com/search/audio?
+https://stock.adobe.com/search/audio?k=353755688
+https://stock.adobe.com/search/audio?k=354660722
+https://stock.adobe.com/search/audio?k=354660388
